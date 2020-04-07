@@ -1,0 +1,12 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: 16BF-49E0
+
+ Directorio de C:\REPOSITORIO\Dropbox (Personal)\RPM_ACTIVO\VALUE_CREATOR\JAVA\GIT\practica2020
+
+07/04/2020  11:25    <DIR>          .
+07/04/2020  11:25    <DIR>          ..
+07/04/2020  10:53               467 file1.txt
+07/04/2020  11:25                 0 file2.txt
+03/04/2020  12:23               421 list.txt
+               3 archivos            888 bytes
+               2 dirs  99.143.094.272 bytes libres
