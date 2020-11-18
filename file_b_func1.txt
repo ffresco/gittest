@@ -13,3 +13,8 @@
 03/04/2020  12:23               421 list.txt
                6 archivos          2.586 bytes
                2 dirs  98.396.692.480 bytes libres
+               
+Stash esta linea en master
+fsdafsad
+safsadfsda
+
