@@ -10,6 +10,9 @@
 07/04/2020  11:25               514 file2.txt
 07/04/2020  12:33               561 file3.txt
 08/04/2020  11:09                 0 file_b_func1.txt
-03/04/2020  12:23               421 list.txt
+03/04/2020  12:23          git     421 list.txt
                6 archivos          2.586 bytes
                2 dirs  98.396.692.480 bytes libres
+              
+Stash esta linea en master
+
